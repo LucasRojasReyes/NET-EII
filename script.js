@@ -124,7 +124,7 @@ const prerequisitos = {
   'termodinamica_procesos': ['fisica_calor_ondas_optica', 'quimica_general'],
   'sistemas_info_bases_datos': ['informatica2', 'idioma3', 'administracion_sistemas_organizacionales'],
   'tipe2': ['tipe1'],
-  'microeconomia': ['contabilidad_financiera', 'administracion_sistemas_organizacionales', 'estadistica_probabilidades'],
+  'microeconomia': ['contabilidad_financiera', 'administracion_sistemas_organizacionales'],
 
   // 7° Semestre
   'modelamiento': ['ecuaciones_diferenciales', 'informatica2', 'inferencia_estadistica'],
